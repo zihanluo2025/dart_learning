@@ -1,0 +1,14 @@
+name: dart_libs
+description: >-
+  用于练习 Dart 库的实验室
+
+environment:
+  sdk: "^3.5.0"
+
+dependencies:
+  http: ^1.2.2
+  intl: ^0.19.0
+  path: ^1.9.0
+
+dev_dependencies:
+  test: ">=1.15.0 <2.0.0"
